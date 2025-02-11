@@ -1,6 +1,6 @@
 # Software-Development-Lifecycle
 
-The Software Development Life Cycle (SDLC) is a structured process used for developing software applications. It consists of several distinct phases, each with specific activities and deliverables. Here's a brief overview of the main phases:
+The Software Development Life Cycle (SDLC) is a structured process used for developing software applications. It consists of several distinct phases, each with specific activities and deliverables. 
 
 Planning: 
 Define the project scope, objectives, and feasibility. This phase involves gathering requirements and creating a project plan.
@@ -22,3 +22,9 @@ Release the software to users. This phase may involve installation, configuratio
 
 Maintenance:
 Provide ongoing support and updates to the software. This includes fixing any issues that arise and making improvements.
+
+![image](https://github.com/user-attachments/assets/7fff045c-cc7b-496b-b875-d19e1fb793f7)
+
+
+
+
